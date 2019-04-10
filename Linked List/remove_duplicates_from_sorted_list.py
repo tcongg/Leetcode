@@ -15,6 +15,7 @@ class Solution(object):
         """
         :type head: ListNode
         :rtype: ListNode
+        :time complexity: O(n)
         """
         tempNode = head
         if tempNode is None:
